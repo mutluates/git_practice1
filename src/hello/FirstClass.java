@@ -1,3 +1,5 @@
+package hello;
+
 public class FirstClass {
 
             // STEP1
