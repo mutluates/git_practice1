@@ -2,9 +2,13 @@ package hello;
 
 public class FirstClass {
 
-            // STEP1
-            
-           // STEP2
+    public static void main(String[] args) {
+
+        int i = 12;
+        String str = "We are learning Java";
+
+
+    }
 
 
 }
